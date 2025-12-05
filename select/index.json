@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "瞬間センチメンタル",
+  "base_artist": "SCANDAL",
+  "createdAt": "2025-12-05T04:06:36.546793Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "瞬間センチメンタル",
+      "artist": "Scandal",
+      "has_synced": true,
+      "path": "select/01_瞬間センチメンタル_Scandal.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "瞬間センチメンタル",
+      "artist": "SCANDAL",
+      "has_synced": false,
+      "path": "select/02_瞬間センチメンタル_SCANDAL.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "瞬間センチメンタル",
+      "artist": "SCANDAL",
+      "has_synced": true,
+      "path": "select/03_瞬間センチメンタル_SCANDAL.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "瞬間センチメンタル",
+      "artist": "SCANDAL",
+      "has_synced": true,
+      "path": "select/04_瞬間センチメンタル_SCANDAL.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "瞬間センチメンタル",
+      "artist": "SCANDAL",
+      "has_synced": true,
+      "path": "select/05_瞬間センチメンタル_SCANDAL.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "瞬間センチメンタル",
+      "artist": "SCANDAL",
+      "has_synced": true,
+      "path": "select/06_瞬間センチメンタル_SCANDAL.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "瞬間センチメンタル",
+      "artist": "SCANDAL",
+      "has_synced": true,
+      "path": "select/07_瞬間センチメンタル_SCANDAL.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "瞬間センチメンタル - Shunkan Sentimental",
+      "artist": "SCANDAL",
+      "has_synced": true,
+      "path": "select/08_瞬間センチメンタル_-_Shunkan_Sentimental_SCANDAL.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Shunkan Sentimental (瞬間センチメンタル)",
+      "artist": "SCANDAL",
+      "has_synced": true,
+      "path": "select/09_Shunkan_Sentimental_(瞬間センチメンタル)_SCANDAL.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "瞬間センチメンタル",
+      "artist": "SCANDAL",
+      "has_synced": true,
+      "path": "select/10_瞬間センチメンタル_SCANDAL.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "瞬間センチメンタル",
+      "artist": "SCANDAL",
+      "has_synced": false,
+      "path": "select/pl_01_瞬間センチメンタル_SCANDAL.txt"
+    }
+  ]
+}
